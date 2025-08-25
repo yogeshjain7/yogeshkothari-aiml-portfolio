@@ -25,11 +25,11 @@ const EducationSection = () => {
   const education = [
     {
       degree: 'Bachelor of Technology in Computer Science',
-      institution: 'XYZ University',
-      year: '2020 - 2024',
-      location: 'City, State',
-      description: 'Specialized in Artificial Intelligence and Machine Learning with focus on data structures, algorithms, and modern AI frameworks.',
-      gpa: '8.5/10',
+      institution: 'Ballari Institute of Technology and Management',
+      year: '2022 - 2026',
+      location: 'Ballari, Karnataka',
+      description: 'Specialized in Machine Learning with focus on data structures, algorithms, and modern AI frameworks.',
+      gpa: '7.95/10',
       highlights: [
         'Relevant Coursework: Machine Learning, Deep Learning, Data Structures & Algorithms',
         'Final Year Project: AI-based Recommendation System',
@@ -38,15 +38,13 @@ const EducationSection = () => {
     },
     {
       degree: 'Higher Secondary Education (Science)',
-      institution: 'ABC Higher Secondary School',
-      year: '2018 - 2020',
-      location: 'City, State',
+      institution: 'Basavarajeswari Public School and College',
+      year: '2020 - 2022',
+      location: 'Ballari, Karnataka',
       description: 'Completed higher secondary education with Mathematics, Physics, and Chemistry as major subjects.',
-      gpa: '85%',
+      gpa: '75%',
       highlights: [
-        'Mathematics and Science stream',
-        'Participated in science exhibitions',
-        'Member of school coding club'
+        'Mathematics and Science stream'
       ]
     }
   ];
@@ -64,7 +62,7 @@ const EducationSection = () => {
               Education
             </h2>
             <p className="text-xl text-muted-foreground">
-              Academic foundation in Computer Science and AI/ML
+              Academic foundation in  AI/ML
             </p>
           </div>
 
