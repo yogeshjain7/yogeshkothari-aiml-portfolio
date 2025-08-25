@@ -28,7 +28,7 @@ const Footer = () => {
             <h3 className="text-2xl font-bold mb-4">Yogesh Kothari</h3>
             <p className="text-primary-foreground/80 leading-relaxed">
               AIML Engineer passionate about building intelligent solutions 
-              with AI, ML & Data Science. Let's create the future together.
+              with ML & Data Science. Let's create the future together.
             </p>
           </div>
 
@@ -52,9 +52,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Get in Touch</h4>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>yogesh.kothari@email.com</p>
-              <p>+91 98765 43210</p>
-              <p>Mumbai, Maharashtra, India</p>
+              <p>yogeshkothari066@email.com</p>
+              <p>+91 90358 49500</p>
+              <p>Ballari, Karnataka, India</p>
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@ const Footer = () => {
             <p className="text-primary-foreground/80 text-sm">
               © {new Date().getFullYear()} Yogesh Kothari. Made with{' '}
               <Heart className="inline h-4 w-4 text-red-400 mx-1" />
-              for the AI/ML community.
+              for the ML community.
             </p>
             
             <Button
