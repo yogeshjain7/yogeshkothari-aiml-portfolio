@@ -37,8 +37,8 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="text-left">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                I'm a passionate AIML Engineer with a deep fascination for artificial intelligence, 
-                machine learning, and data science. My journey in technology is driven by the desire 
+                I'm a passionate AIML Engineer with a deep fascination for  machine learning.
+                My journey in technology is driven by the desire 
                 to create intelligent solutions that can make a meaningful impact on the world.
               </p>
               
