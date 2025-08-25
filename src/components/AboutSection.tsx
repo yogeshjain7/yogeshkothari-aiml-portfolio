@@ -43,17 +43,11 @@ const AboutSection = () => {
               </p>
               
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                With expertise in Python, machine learning algorithms, deep learning frameworks, 
-                and data analysis, I specialize in building end-to-end AI solutions. From data 
-                preprocessing to model deployment, I enjoy every aspect of the ML pipeline.
+                With expertise in Python, machine learning algorithms and deep learning frameworks, 
+                I specialize in building end-to-end AI solutions. From data 
+                preprocessing to model deployment.
               </p>
               
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Currently, I'm focused on expanding my knowledge in computer vision, natural 
-                language processing, and exploring the latest advancements in AI technology. 
-                I believe in continuous learning and staying updated with the rapidly evolving 
-                AI landscape.
-              </p>
             </div>
             
             <div className="flex justify-center">
