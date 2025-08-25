@@ -28,13 +28,8 @@ const ExperienceSection = () => {
       company: 'EZ Trainings and Technologies Pvt. Ltd.',
       duration: '2023 - 2024',
       location: 'Remote',
-      description: 'Worked on machine learning projects focusing on data preprocessing, model development, and deployment. Gained hands-on experience with various ML algorithms and frameworks.',
-      skills: ['Python', 'Machine Learning', 'Data Analysis', 'TensorFlow', 'Model Deployment'],
-      achievements: [
-        'Developed and deployed ML models for real-world applications',
-        'Improved model accuracy by 15% through feature engineering',
-        'Collaborated with cross-functional teams on AI solutions'
-      ]
+      description: 'Basics of Python Programming ',
+      skills: ['Python', 'Communication', 'Presentation Skill'],
     }
   ];
 
@@ -51,7 +46,7 @@ const ExperienceSection = () => {
               Experience
             </h2>
             <p className="text-xl text-muted-foreground">
-              Professional journey in AI and Machine Learning
+              python
             </p>
           </div>
 
