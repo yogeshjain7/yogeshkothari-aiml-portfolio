@@ -69,19 +69,19 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'yogesh.kothari@email.com',
+      value: 'yogeshkothari066@email.com',
       link: 'mailto:yogesh.kothari@email.com'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      value: '+91 7019751563',
+      link: 'tel:+917019751563'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Mumbai, Maharashtra, India',
+      value: 'Ballari, Karnataka, India',
       link: null
     },
     {
@@ -101,7 +101,7 @@ const ContactSection = () => {
               Let's Connect
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Ready to collaborate on AI/ML projects or discuss opportunities? 
+              Ready to collaborate on ML projects or discuss opportunities? 
               I'd love to hear from you!
             </p>
           </div>
@@ -112,7 +112,7 @@ const ContactSection = () => {
               <div>
                 <h3 className="text-2xl font-semibold mb-6">Get in Touch</h3>
                 <p className="text-muted-foreground leading-relaxed mb-8">
-                  Whether you have a project in mind, want to discuss AI/ML opportunities, 
+                  Whether you have a project in mind, want to discuss ML opportunities, 
                   or just want to connect with a fellow tech enthusiast, I'm always open 
                   to meaningful conversations.
                 </p>
