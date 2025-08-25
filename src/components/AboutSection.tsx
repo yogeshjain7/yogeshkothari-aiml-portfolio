@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import profilePhoto from '../assets/profile-photo.jpg';
+import profilePhoto from '../assets/yoyoyoyoyooo.jpg';
 
 const AboutSection = () => {
   const [isVisible, setIsVisible] = useState(false);
