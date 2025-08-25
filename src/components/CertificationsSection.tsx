@@ -42,24 +42,6 @@ const CertificationsSection = () => {
       skills: ['Python', 'OOP', 'Data Structures', 'Algorithms', 'Testing'],
       verified: true,
       credentialId: 'PY-PROG-2023-456'
-    },
-    {
-      title: 'Machine Learning Specialization',
-      issuer: 'Stanford University (Coursera)',
-      date: '2023',
-      description: 'Comprehensive machine learning course covering supervised learning, unsupervised learning, and neural networks.',
-      skills: ['Machine Learning', 'Neural Networks', 'Supervised Learning', 'Unsupervised Learning'],
-      verified: true,
-      credentialId: 'ML-SPEC-2023-789'
-    },
-    {
-      title: 'Deep Learning with TensorFlow',
-      issuer: 'TensorFlow',
-      date: '2023',
-      description: 'Specialized certification in deep learning frameworks, neural network architectures, and model deployment.',
-      skills: ['Deep Learning', 'TensorFlow', 'Neural Networks', 'Model Deployment'],
-      verified: true,
-      credentialId: 'TF-DL-2023-012'
     }
   ];
 
