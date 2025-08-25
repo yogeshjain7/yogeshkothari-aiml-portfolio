@@ -25,7 +25,7 @@ const AchievementsSection = () => {
   const achievements = [
     {
       title: 'Hackathon Participant',
-      description: 'Participated in multiple hackathons, developing innovative AI solutions under time constraints',
+      description: 'Participated in multiple hackathons',
       icon: Code,
       category: 'Technology',
       color: 'text-blue-500',
@@ -41,37 +41,13 @@ const AchievementsSection = () => {
     },
     {
       title: 'Eco Club Member',
-      description: 'Active member of environmental club, organizing awareness campaigns and sustainability initiatives',
+      description: 'Member of environmental club, organizing awareness campaigns and sustainability initiatives',
       icon: Leaf,
       category: 'Environment',
       color: 'text-emerald-500',
       bgColor: 'bg-emerald-50'
     },
-    {
-      title: 'Academic Excellence',
-      description: 'Consistently maintained high academic performance throughout the degree program',
-      icon: Star,
-      category: 'Academic',
-      color: 'text-yellow-500',
-      bgColor: 'bg-yellow-50'
-    },
-    {
-      title: 'Innovation Award',
-      description: 'Recognized for innovative project ideas and implementation in AI/ML domain',
-      icon: Zap,
-      category: 'Innovation',
-      color: 'text-purple-500',
-      bgColor: 'bg-purple-50'
-    },
-    {
-      title: 'Leadership Excellence',
-      description: 'Led technical teams and mentored junior students in programming and AI concepts',
-      icon: Trophy,
-      category: 'Leadership',
-      color: 'text-orange-500',
-      bgColor: 'bg-orange-50'
-    }
-  ];
+];
 
   return (
     <section 
