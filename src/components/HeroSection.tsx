@@ -40,7 +40,7 @@ const HeroSection = () => {
             AIML Engineer
           </h2>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto leading-relaxed">
-            Building intelligent solutions with AI, ML & Data Science
+            Building intelligent solutions with AI & ML
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
