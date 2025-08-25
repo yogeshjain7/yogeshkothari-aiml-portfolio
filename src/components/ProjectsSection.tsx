@@ -38,13 +38,6 @@ const ProjectsSection = () => {
       techStack: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Matplotlib'],
       icon: Home,
       category: 'Machine Learning'
-    },
-    {
-      title: 'Data Analytics Dashboard',
-      description: 'Interactive dashboard for data visualization and analysis with real-time insights, built using modern web technologies and data science libraries.',
-      techStack: ['Python', 'Plotly', 'Dash', 'Pandas', 'SQL'],
-      icon: TrendingUp,
-      category: 'Data Science'
     }
   ];
 
